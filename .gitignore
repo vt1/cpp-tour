@@ -1,0 +1,9 @@
+/cpp-tour/Debug/
+/cpp-tour/**/Debug
+/cpp-tour/.vs
+/cpp-tour/**/*.vcxproj
+/cpp-tour/**/*.vcxproj.filters
+/cpp-tour/**/*.vcxproj.user
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
