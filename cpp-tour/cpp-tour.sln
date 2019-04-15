@@ -59,6 +59,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ch3ex5", "chapter3\ch3ex5\c
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ch3ex6", "chapter3\ch3ex6\ch3ex6.vcxproj", "{9E33E511-68F5-42FF-838C-733069079933}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "codingame-chucknorris", "extra\codingame-chucknorris\codingame-chucknorris.vcxproj", "{BA0FD267-2C1E-429D-80FF-BEF63C77ACDD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -291,6 +293,14 @@ Global
 		{9E33E511-68F5-42FF-838C-733069079933}.Release|x64.Build.0 = Release|x64
 		{9E33E511-68F5-42FF-838C-733069079933}.Release|x86.ActiveCfg = Release|Win32
 		{9E33E511-68F5-42FF-838C-733069079933}.Release|x86.Build.0 = Release|Win32
+		{BA0FD267-2C1E-429D-80FF-BEF63C77ACDD}.Debug|x64.ActiveCfg = Debug|x64
+		{BA0FD267-2C1E-429D-80FF-BEF63C77ACDD}.Debug|x64.Build.0 = Debug|x64
+		{BA0FD267-2C1E-429D-80FF-BEF63C77ACDD}.Debug|x86.ActiveCfg = Debug|Win32
+		{BA0FD267-2C1E-429D-80FF-BEF63C77ACDD}.Debug|x86.Build.0 = Debug|Win32
+		{BA0FD267-2C1E-429D-80FF-BEF63C77ACDD}.Release|x64.ActiveCfg = Release|x64
+		{BA0FD267-2C1E-429D-80FF-BEF63C77ACDD}.Release|x64.Build.0 = Release|x64
+		{BA0FD267-2C1E-429D-80FF-BEF63C77ACDD}.Release|x86.ActiveCfg = Release|Win32
+		{BA0FD267-2C1E-429D-80FF-BEF63C77ACDD}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
