@@ -71,6 +71,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ch4ex4", "chapter4\ch4ex4\c
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "const-sample", "extra\const-sample\const-sample.vcxproj", "{8CBA89ED-BC80-49B0-9CE8-699E9EFE4848}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "const-args-func", "extra\const-args-func\const-args-func.vcxproj", "{1E587271-255E-4020-A04C-0B170D86D205}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -351,6 +353,14 @@ Global
 		{8CBA89ED-BC80-49B0-9CE8-699E9EFE4848}.Release|x64.Build.0 = Release|x64
 		{8CBA89ED-BC80-49B0-9CE8-699E9EFE4848}.Release|x86.ActiveCfg = Release|Win32
 		{8CBA89ED-BC80-49B0-9CE8-699E9EFE4848}.Release|x86.Build.0 = Release|Win32
+		{1E587271-255E-4020-A04C-0B170D86D205}.Debug|x64.ActiveCfg = Debug|x64
+		{1E587271-255E-4020-A04C-0B170D86D205}.Debug|x64.Build.0 = Debug|x64
+		{1E587271-255E-4020-A04C-0B170D86D205}.Debug|x86.ActiveCfg = Debug|Win32
+		{1E587271-255E-4020-A04C-0B170D86D205}.Debug|x86.Build.0 = Debug|Win32
+		{1E587271-255E-4020-A04C-0B170D86D205}.Release|x64.ActiveCfg = Release|x64
+		{1E587271-255E-4020-A04C-0B170D86D205}.Release|x64.Build.0 = Release|x64
+		{1E587271-255E-4020-A04C-0B170D86D205}.Release|x86.ActiveCfg = Release|Win32
+		{1E587271-255E-4020-A04C-0B170D86D205}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

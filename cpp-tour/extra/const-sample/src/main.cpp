@@ -34,5 +34,5 @@ int main()
 	const int* const p;			//err, must init
 	const int* const p1 = &i;	//ok
 	*p1 = 29;					//err
-	p1 = &j;					//err
+	p1 = &j;					//err	
 }
