@@ -1,4 +1,4 @@
-int main()
+int main() 
 {
 	//CONST
 	const int j = 17;
