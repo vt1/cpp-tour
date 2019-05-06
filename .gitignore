@@ -1,4 +1,5 @@
 /cpp-tour/Debug/
+/cpp-tour/cpp-tour.sln
 /cpp-tour/**/Debug
 /cpp-tour/.vs
 /cpp-tour/**/*.vcxproj
@@ -7,3 +8,6 @@
 *.vcxproj
 *.vcxproj.filters
 *.vcxproj.user
+/cpp-tour/.sln
+/cpp-tour/cpp-tour.sln/
+/cpp-tour/*.sln
