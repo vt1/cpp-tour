@@ -11,3 +11,4 @@
 /cpp-tour/.sln
 /cpp-tour/cpp-tour.sln/
 /cpp-tour/*.sln
+*.sln.docstates
