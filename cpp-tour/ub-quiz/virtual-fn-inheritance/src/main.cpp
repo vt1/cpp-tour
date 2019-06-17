@@ -4,13 +4,13 @@
 
 class A
 {
-public:	
+public:
 	virtual int value() { return 1; }
 };
 
 class B : public A
 {
-public:	
+public:
 	int value() { return 2; }
 };
 
